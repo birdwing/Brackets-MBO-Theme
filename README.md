@@ -5,4 +5,4 @@ It has been updated by me to work in the Built in brackets Theme Support in Brac
 
 Screenshot
 ==========
-[MBO](https://raw.github.com/birdwing/Brackets-MBO-Theme/master/screenshot.png)
+[MBO](https://raw.githubusercontent.com/birdwing/Brackets-MBO-Theme/master/screenshot.png)
