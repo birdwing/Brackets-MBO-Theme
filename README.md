@@ -9,4 +9,8 @@ Brackets _only_ supports editor themes. Meaning unlike the themes used with the 
 
 Screenshot
 ==========
+This screenshot includes the [Brackets Git](https://github.com/zaggino/brackets-git), and [Code Folding](https://github.com/thehogfather/brackets-code-folding) Extensions.
 ![MBO](https://raw.githubusercontent.com/birdwing/Brackets-MBO-Theme/master/screenshot.png)
+
+This screenshot is without the [Brackets Git](https://github.com/zaggino/brackets-git), and [Code Folding](https://github.com/thehogfather/brackets-code-folding) Extensions.
+![MBO](https://raw.githubusercontent.com/birdwing/Brackets-MBO-Theme/master/screenshot2.png)
