@@ -34,17 +34,26 @@
 .CodeMirror .cm-attribute { color: #ffb928; }
 
 .CodeMirror-code {
-	color: #999;
+		color: #ffffec;
 }
 
 .CodeMirror-scroll {
-	background-color: #2a2a2a;
+		background-color: #2a2a2a;
 }
 
 .CodeMirror-matchingtag{
     background:none;
     text-decoration:underline;
     color: #9DDFE9 !important;
+}
+
+.brackets-git-gutter-deleted-lines {
+		border: 2px solid #ff5d5d !important;
+		background-color: #333;
+		color: #ff5d5d;
+		padding: 3px;
+		padding-bottom: 4px;
+		margin: 3px;
 }
 
 .CodeMirror .CodeMirror-selected {
@@ -67,7 +76,40 @@
 }
 
 .CodeMirror-gutter-elt {
-    padding: 0 5px 0 5px;
+    padding: 0 0 0 3px;
+}
+
+.CodeMirror .brackets-git-gutter {
+		width: 0.8em;
+		margin: 0;
+}
+
+.CodeMirror-gutter-wrapper .brackets-git-gutter-hover {
+		background-color: #646464;
+		color: #fff;
+}
+
+.CodeMirror-gutter-elt .brackets-git-gutter-modified {
+		background-color: #e3b551;
+		color: #000;
+}
+
+.CodeMirror-gutter-elt .brackets-git-gutter-added {
+		background-color: #91cc41;
+		color: #000;
+}
+
+.CodeMirror-gutter-elt .brackets-git-gutter-removed {
+		background-color: #f74687;
+		color: #000;
+}
+
+.CodeMirror-foldgutter {
+		padding-left: 7px;
+		margin-left: 5px;
+		width: 7px;
+		background-color: #2a2a2a;
+		text-align: right;
 }
 
 .CodeMirror-selected {
@@ -93,9 +135,9 @@
 
 /*Plug in "Code Folding"*/
 .CodeMirror-foldmarker {
-background-color: #333;
-border-color: #555;
-color: #75715E;
-padding-right: 10px;
-padding-left: 10px;
+		background-color: #333;
+		border-color: #555;
+		color: #75715E;
+		padding-right: 10px;
+		padding-left: 10px;
 }
