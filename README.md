@@ -1,6 +1,7 @@
 MBO Theme for Brackets
 ======================
 This theme is taken from https://github.com/Jacse/themes-for-brackets
+It is based on the [MBO theme by mbonaci](https://github.com/mbonaci/global/blob/master/Mbo.tmTheme)
 It has been updated by me to work in the Built in brackets Theme Support in Brackets Release 0.42
 
 #Notes:
